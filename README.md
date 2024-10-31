@@ -1,11 +1,11 @@
 # Happy to have you here ✨!
 ## I am Johannes Große Boymann :wave:
 
-At the Unsiversity of Hannover and Berlin I studied electrical engineering. Fore more than a decade I ran an engineering office in Berlin.
+At the University of Hannover and Berlin I studied electrical engineering. Fore more than a decade I ran an engineering office in Berlin.
 Then I changed to become a teacher for maths and physics.
 Afterwards I traveled for some years.  
 
- *In october 2024 I turned to become a web dev student.*
+ ## *In october 2024 I turned to become a web dev student.*
 
 # my learnings now 🌱:
 - ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E)
